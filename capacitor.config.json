@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.naixesled",
+  "appName": "Naixes LED",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
